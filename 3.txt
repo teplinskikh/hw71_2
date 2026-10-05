@@ -1,3 +1,2 @@
 third file
-
-change for 2.5
+changes for 2.5 and 2.6
